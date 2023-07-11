@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
-<h3 align="center">I’m an undergraduate student as a full stack developer and a data scientist who loves to create the invisible and intelligent parts of the code development. I make magic happen behind the scenes of websites and apps with Python with libraries, Java, R, PyTorch and TensorFlow. I’m obsessed with machine learning and AI, and I love to play with different formulas and facts to crack the code of reality.</h3>
+<img  align="center" src="[https://dribbble.com/shots/3688760-HUD-UI-Loading](https://cdn.dribbble.com/users/1089917/screenshots/3688760/media/f4f7c3541c281afff496e44090d85b1e.gif)">
+<h3 align="center">An undergraduate student as a full stack developer and a data scientist who loves to create the invisible and intelligent parts of the code development. I make magic happen behind the scenes of websites and apps with Python with libraries, Java, R, PyTorch and TensorFlow. I’m obsessed with machine learning and AI, and I love to play with different formulas and facts to crack the code of reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth-h&label=Profile%20views&color=0e75b6&style=flat" alt="dineth-h" /> </p>
 

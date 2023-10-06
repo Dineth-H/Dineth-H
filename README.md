@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I'm a polyglot coder**
 
-<h3 align="left" text-decoration="blink">Connect with me:</h3>
+<h3 align="left" text-decoration="Blink">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dineth-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dineth-h" height="30" width="40" /></a>
 <a href="https://twitter.com/dineth_hesara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineth_hesara" height="30" width="40" /></a>

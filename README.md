@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRob2p6b3M0em54dDVmNDE2eGltdGl4eGJmaG1ubnlvempuYjQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/125TjTba70USnS/giphy.gifv" width="auto" height="auto" loop="infinite"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRob2p6b3M0em54dDVmNDE2eGltdGl4eGJmaG1ubnlvempuYjQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/125TjTba70USnS/giphy.gifv"/>
 <h3 align="center">An undergraduate student as a full stack developer and a data scientist who loves to create the invisible and intelligent parts of the code development. I make magic happen behind the scenes of websites and apps with Python with libraries, Java, R, PyTorch and TensorFlow. I’m obsessed with machine learning and AI, and I love to play with different formulas and facts to crack the code of reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth-h&label=Profile%20views&color=0e75b6&style=flat" alt="dineth-h" /> </p>

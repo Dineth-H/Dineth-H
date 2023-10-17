@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
 <div align="center">
-  <img src="https://www.pinterest.com/pin/602004675171639255/" width="auto" height="auto" loop="infinite"/>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/125TjTba70USnS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/125TjTba70USnS">via GIPHY</a></p>
 </div>
 <h3 align="center">An undergraduate student as a full stack developer and a data scientist who loves to create the invisible and intelligent parts of the code development. I make magic happen behind the scenes of websites and apps with Python with libraries, Java, R, PyTorch and TensorFlow. I’m obsessed with machine learning and AI, and I love to play with different formulas and facts to crack the code of reality.</h3>
 

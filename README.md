@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
 <div align="center">
-  <img src="https://pin.it/6IiWBfK" width="auto" height="auto" loop="infinite"/>
+  <img src="https://i.pinimg.com/originals/d3/2a/de/d32adef943c694981b9aacdaeb3e1a25.gif" width="auto" height="auto" loop="infinite"/>
 </div>
 <h3 align="center">An undergraduate student as a full stack developer and a data scientist who loves to create the invisible and intelligent parts of the code development. I make magic happen behind the scenes of websites and apps with Python with libraries, Java, R, PyTorch and TensorFlow. I’m obsessed with machine learning and AI, and I love to play with different formulas and facts to crack the code of reality.</h3>
 

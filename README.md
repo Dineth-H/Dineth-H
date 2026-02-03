@@ -14,7 +14,7 @@ I design and build intelligent, scalable software — from data-driven AI models
   <img src="https://komarev.com/ghpvc/?username=dineth-h&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<img src="giphy.gif" />
+<img src="giphy.gif" align="center"/>
 
 ---
 

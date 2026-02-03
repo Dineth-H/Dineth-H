@@ -14,12 +14,14 @@ I design and build intelligent, scalable software — from data-driven AI models
   <img src="https://komarev.com/ghpvc/?username=dineth-h&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FiZmlrYWp4Y3Jxcnk3MnF2cDdzZ3V5cGh4bGE0cXExcGN3ZXY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7srgXY5l8ftJsX5Rb/giphy.gif"
-    width="100%"
-  />
-</p>
+<video 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FiZmlrYWp4Y3Jxcnk3MnF2cDdzZ3V5cGh4bGE0cXExcGN3ZXY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7srgXY5l8ftJsX5Rb/giphy.gif"
+  autoplay
+  loop
+  muted
+  playsinline
+  width="500">
+</video>
 
 ---
 

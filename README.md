@@ -109,16 +109,25 @@ I design and build intelligent, scalable software — from data-driven AI models
 
 ### 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dineth-h&layout=compact" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-h&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=dineth-h&show_icons=true" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dineth-h&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-h" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dineth-h&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
